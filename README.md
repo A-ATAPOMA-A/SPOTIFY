@@ -4,7 +4,7 @@
 ## Aqui le das continuar
 ![Texto alternativo](IMAGENES-SPOTIFY/segundo.jpg)
 ## Aqui das clic en registrar
-![Texto alternativo](IMAGENES-SPOTIFY/tercero.png)
+![Texto alternativo](IMAGENES-SPOTIFY/tercero.jpg)
 ## Aqui creas tu usuario y tu contraseña
 ![Texto alternativo](IMAGENES-SPOTIFY/cuarto.jpg) 
 ## Aqui nuevamente creas tu gmail con tu usuario y contraseña
